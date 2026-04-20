@@ -1,0 +1,8 @@
+*.gguf
+models/
+data/
+output/
+*.pdf
+*.xlsx
+*.csv
+__pycache__/
