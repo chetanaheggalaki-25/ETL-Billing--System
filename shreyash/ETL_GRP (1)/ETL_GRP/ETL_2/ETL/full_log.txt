@@ -1,0 +1,100 @@
+﻿python : Traceback (most 
+recent call last):
+At line:1 char:1
++ python UniversalETL.py 
+2>&1 | Out-File -FilePath 
+full_log.txt -Encodi ...
++ 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          
+    : NotSpecified: (Trace  
+  back (most recent call    
+ last)::String) [], Remo    
+teException
+    + FullyQualifiedErrorId 
+    : NativeCommandError
+ 
+  File "C:\Users\SHREYAS R P
+ATIL\OneDrive\Desktop\Aveeny
+a_Intern\ETL_GRP 
+(2)\ETL_GRP (1)\ETL_GRP\ETL_
+2\ETL\UniversalETL.py", 
+line 6, in <module>
+    from rule_generator 
+import RuleGenerator
+  File "C:\Users\SHREYAS R P
+ATIL\OneDrive\Desktop\Aveeny
+a_Intern\ETL_GRP 
+(2)\ETL_GRP (1)\ETL_GRP\ETL_
+2\ETL\rule_generator.py", 
+line 5, in <module>
+    import spacy
+  File "C:\Users\SHREYAS R P
+ATIL\AppData\Local\Programs\
+Python\Python311\Lib\site-pa
+ckages\spacy\__init__.py", 
+line 6, in <module>
+    from .errors import 
+setup_default_warnings
+  File "C:\Users\SHREYAS R P
+ATIL\AppData\Local\Programs\
+Python\Python311\Lib\site-pa
+ckages\spacy\errors.py", 
+line 3, in <module>
+    from .compat import 
+Literal
+  File "C:\Users\SHREYAS R P
+ATIL\AppData\Local\Programs\
+Python\Python311\Lib\site-pa
+ckages\spacy\compat.py", 
+line 5, in <module>
+    from thinc.util import 
+copy_array
+  File "C:\Users\SHREYAS R P
+ATIL\AppData\Local\Programs\
+Python\Python311\Lib\site-pa
+ckages\thinc\__init__.py", 
+line 5, in <module>
+    from .config import 
+registry
+  File "C:\Users\SHREYAS R P
+ATIL\AppData\Local\Programs\
+Python\Python311\Lib\site-pa
+ckages\thinc\config.py", 
+line 5, in <module>
+    from .types import 
+Decorator
+  File "C:\Users\SHREYAS R P
+ATIL\AppData\Local\Programs\
+Python\Python311\Lib\site-pa
+ckages\thinc\types.py", 
+line 27, in <module>
+    from .compat import 
+cupy, has_cupy
+  File "C:\Users\SHREYAS R P
+ATIL\AppData\Local\Programs\
+Python\Python311\Lib\site-pa
+ckages\thinc\compat.py", 
+line 35, in <module>
+    import torch
+  File "C:\Users\SHREYAS R P
+ATIL\AppData\Local\Programs\
+Python\Python311\Lib\site-pa
+ckages\torch\__init__.py", 
+line 280, in <module>
+    _load_dll_libraries()
+  File "C:\Users\SHREYAS R P
+ATIL\AppData\Local\Programs\
+Python\Python311\Lib\site-pa
+ckages\torch\__init__.py", 
+line 263, in 
+_load_dll_libraries
+    raise err
+OSError: [WinError 127] The 
+specified procedure could 
+not be found. Error loading 
+"C:\Users\SHREYAS R PATIL\Ap
+pData\Local\Programs\Python\
+Python311\Lib\site-packages\
+torch\lib\shm.dll" or one 
+of its dependencies.

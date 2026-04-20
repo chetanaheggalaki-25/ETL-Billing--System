@@ -1,0 +1,45 @@
+﻿python : Traceback (most 
+recent call last):
+At line:1 char:1
++ python UniversalETL.py 2>&1 
+| Out-File -FilePath err.txt 
+-Encoding ut ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : 
+    NotSpecified: (Traceback  
+   (most recent call last):   
+ :String) [], RemoteExcept    
+ion
+    + FullyQualifiedErrorId : 
+    NativeCommandError
+ 
+  File "C:\Users\SHREYAS R PAT
+IL\OneDrive\Desktop\Aveenya_In
+tern\ETL_GRP (2)\ETL_GRP (1)\E
+TL_GRP\ETL_2\ETL\UniversalETL.
+py", line 91, in <module>
+    run_universal_etl()
+  File "C:\Users\SHREYAS R PAT
+IL\OneDrive\Desktop\Aveenya_In
+tern\ETL_GRP (2)\ETL_GRP (1)\E
+TL_GRP\ETL_2\ETL\UniversalETL.
+py", line 15, in 
+run_universal_etl
+    print("\U0001f680 
+Initializing Universal ETL 
+Pipeline (PaddleOCR 
+Edition)...")
+  File "C:\Users\SHREYAS R PAT
+IL\AppData\Local\Programs\Pyth
+on\Python311\Lib\encodings\cp1
+252.py", line 19, in encode
+    return codecs.charmap_enco
+de(input,self.errors,encoding_
+table)[0]
+           ^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^
+UnicodeEncodeError: 'charmap' 
+codec can't encode character 
+'\U0001f680' in position 0: 
+character maps to <undefined>

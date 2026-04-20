@@ -1,0 +1,18 @@
+# Data and Outputs
+/Bills/
+/pdf/
+/output/
+/uploads/
+*.zip
+*.csv
+/ETL/rules.xlsx
+__pycache__/
+
+# Environments
+.venv/
+env/
+venv/
+
+# IDE
+.vscode/
+.idea/

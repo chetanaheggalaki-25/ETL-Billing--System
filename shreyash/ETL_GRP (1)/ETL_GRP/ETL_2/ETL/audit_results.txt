@@ -1,0 +1,16 @@
+﻿FILENAME                            | XLSX COLS  | GLOBAL META                    | ITEMS
+----------------------------------------------------------------------------------------------------
+batch1-0007.jpg-10_items.xlsx       | 15         | Invoiceno, Seller, IBAN...     | 4
+batch1-0007.jpg-11_items.xlsx       | 15         | Invoiceno, Seller, IBAN...     | 3
+batch1-0007.jpg-12_items.xlsx       | 14         | Invoiceno, Seller, IBAN...     | 2
+batch1-0007.jpg-13_items.xlsx       | 14         | Invoiceno, Seller, IBAN...     | 2
+batch1-0007.jpg-14_items.xlsx       | 12         | Invoiceno, Seller, IBAN...     | 1
+batch1-0007.jpg-1_items.xlsx        | 15         | Invoice no, Seller, IBAN...    | 7
+batch1-0007.jpg-2_items.xlsx        | 15         | Invoice no, Seller, IBAN...    | 7
+batch1-0007.jpg-3_items.xlsx        | 15         | Invoice no, Seller, IBAN...    | 6
+batch1-0007.jpg-4_items.xlsx        | 14         | Invoice no, Seller, Reyes,Holloway and Lee... | 5
+batch1-0007.jpg-5_items.xlsx        | 15         | Invoiceno, Seller, IBAN...     | 5
+batch1-0007.jpg-6_items.xlsx        | 15         | Invoice no, Seller, IBAN...    | 4
+batch1-0007.jpg-7_items.xlsx        | 14         | Invoiceno, Seller, IBAN...     | 4
+batch1-0007.jpg-8_items.xlsx        | 15         | Invoiceno, Seller, IBAN...     | 4
+batch1-0007.jpg-9_items.xlsx        | 15         | Invoice no, Seller, IBAN...    | 2
