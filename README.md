@@ -101,12 +101,6 @@ The system detects tabular data in invoices and extracts:
 
 ---
 
-## 👤 Author
-
-Chetana Heggalaki
-
----
-
 ## 💡 Future Improvements
 
 * Improve accuracy for complex invoice formats
